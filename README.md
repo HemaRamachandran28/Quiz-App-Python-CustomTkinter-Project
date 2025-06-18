@@ -33,7 +33,7 @@ This application allows users to:
 
 ### Quiz Window
 
-![alt text](<Screenshot 2025-06-18 151745.png>)
+![Screenshot 2025-06-18 151745](https://github.com/user-attachments/assets/0e7c4032-9883-4d9f-a700-582e340f87cf)
 
 ---
 
@@ -125,7 +125,7 @@ This application allows users to:
 
 ## Features video
 
-<video controls src="Screen Recording 2025-06-18 185041.mp4" title="Title"></video>
+https://github.com/user-attachments/assets/c1456bcb-4add-4092-8cef-2e67894bee2d
 
 ---
 
