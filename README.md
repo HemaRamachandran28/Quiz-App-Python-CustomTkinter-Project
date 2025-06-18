@@ -1,4 +1,4 @@
-### Quiz App - Python CustomTkinter Project
+# Quiz App - Python CustomTkinter Project
 
 **Quiz App** is a sleek, interactive quiz application built using **Python** and **CustomTkinter**. It presents multiple-choice questions with images, a timer, sound feedback, navigation, and a review mode — making it a great tool for fun learning or assessments.
 
@@ -48,29 +48,29 @@ This application allows users to:
 
 ## Functional Modules
 
-# Quiz System
+### Quiz System
 
 - Supports multiple-choice questions
 - Shuffles question order and options randomly
 
-# Image Handling
+### Image Handling
 
 - Each question displays a relevant image using Pillow
 
-# Timer & Progress
+### Timer & Progress
 
 - 15-second countdown with visual progress bar
 - Automatic skip when time runs out
 
-# Sound Feedback
+### Sound Feedback
 
 - Windows beep for correct and incorrect answers
 
-# Theme Toggle
+### Theme Toggle
 
 - Easily switch between Light and Dark modes
 
-# Review Mode
+### Review Mode
 
 - End screen shows all questions and the correct answers
 - Red for incorrect, Green for correct — clean and scrollable
